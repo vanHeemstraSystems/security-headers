@@ -1,3 +1,3 @@
 # References
 
-- [Reference Name](https://example.com)
+- [Security Headers](https://securityheaders.com)
