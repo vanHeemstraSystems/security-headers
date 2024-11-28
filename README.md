@@ -1,7 +1,7 @@
 security-headers
 # Security Headers
 
-> Slugline
+> Scan your site now ... https://securityheaders.com/
 
 - [Glossary](./GLOSSARY.md)
 - [References](./REFERENCES.md)
@@ -10,7 +10,7 @@ security-headers
 
 **Executive Summary**
 
-Text
+Security Headers is a part of [Probely](https://probely.com/) and was originally created by [Scott Helme](https://scotthelme.co.uk/)! It is a free and easy to use tool designed to help you better deploy and understand modern security features that are available for your website.
 
 ## 100 - Introduction
 
