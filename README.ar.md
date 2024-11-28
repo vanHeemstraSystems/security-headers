@@ -1,6 +1,6 @@
-اسم المستودع
+رؤوس الأمن
 
-# اسم المستودع
+# رؤوس الأمان
 
 > سلوجلاين
 
@@ -21,10 +21,10 @@
 
 يرى[README.md](./200/README.md)
 
-## 300 – بناء تطبيقنا
+## 300 - Building Our Application
 
 يرى[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - الخاتمة
 
 يرى[README.md](./400/README.md)
