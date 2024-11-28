@@ -1,6 +1,6 @@
-nombre-repositorio
+encabezados de seguridad
 
-# Nombre del repositorio
+# Encabezados de seguridad
 
 > línea de bala
 
