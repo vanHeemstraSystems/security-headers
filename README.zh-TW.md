@@ -2,7 +2,7 @@
 
 # 安全標頭
 
-> 斯拉格萊恩
+> 立即掃描您的網站...<https://securityheaders.com/>
 
 -   [詞彙表](./GLOSSARY.md)
 -   [參考](./REFERENCES.md)
@@ -11,7 +11,7 @@
 
 **執行摘要**
 
-文字
+安全標頭是[空間](https://probely.com/)最初是由[斯科特·赫爾姆](https://scotthelme.co.uk/)！它是一款免費且易於使用的工具，旨在幫助您更好地部署和了解可用於您的網站的現代安全功能。
 
 ## 100 - 簡介
 
